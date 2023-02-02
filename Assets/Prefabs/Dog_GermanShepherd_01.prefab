@@ -2620,7 +2620,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5440215fb968446b9310ad102ed8175, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 7
 --- !u!114 &-2756642359063016268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2644,8 +2644,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.07497468, y: 0.2178206, z: 0.28081685}
-  m_Center: {x: 0.0017035723, y: 0.10855186, z: 0.008245945}
+  m_Size: {x: 0.09830027, y: 0.2178206, z: 0.30672088}
+  m_Center: {x: 0.0026007176, y: 0.10855186, z: 0.021197915}
 --- !u!114 &149002225699376237
 MonoBehaviour:
   m_ObjectHideFlags: 0
